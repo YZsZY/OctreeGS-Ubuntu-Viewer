@@ -1,0 +1,7 @@
+build/*
+build
+assets
+docs
+extlibs
+install
+*.zip
